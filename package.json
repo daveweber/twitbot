@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/daveweber/twitbot#readme",
   "dependencies": {
-    "twit": "^5.0.3"
+    "twit": "^2.2.9"
   }
 }
